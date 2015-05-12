@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://arc-webservices:XBDxFmhwB3tQ@github.com/arc-webservices/NASA-3D-Resources.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
