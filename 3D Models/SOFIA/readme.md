@@ -22,19 +22,20 @@ With the help of the NASA Ames SpaceShop Rapid Prototyping Facility, the SOFIA m
 The model was has been simplified for durability and printing where needed. 
 
 Table of Contents 
-* Preview 
-* Model files 
- o Nose_section.stl 
- o Right_wing.stl 
- o Left_wing.stl 
- o Tail_section.stl 
- o Instrument.stl 
- o Telescope_cavity_open.stl 
- o Telescope_cavity_closed.stl 
- o Fuselage_top.stl 
-*	Printing tips 
-*	Credits 
+* [Preview] 
+* [Model files]
+  * [Nose_section.stl]
+  * [Right_wing.stl]
+  * [Left_wing.stl]
+  * [Tail_section.stl]
+  * [Instrument.stl]
+  * [Telescope_cavity_open.stl]
+  * [Telescope_cavity_closed.stl]
+  * [Fuselage_top.stl]
+*	[Printing tips]
+*	[Credits]
  
 If you print and use this model, we would love to hear about your experiences. Please consider 
 sharing a photograph by opening a pull request, sharing it with SOFIA on social media @SOFIAtelescope, or contacting us at arc-sofia-contact@mail.nasa.gov. 
- 
+
+ <img src="images/ClosedEndViewSide.jpg" align="left" width="300"> <img src="images/OpenEndViewSide.jpg" align="right" width="300">
