@@ -1,10 +1,10 @@
 <img src="images/SOFIA.png" align="right">
 
-Print your own 3D SOFIA model 
+# Print your own 3D SOFIA model 
  
 Now you can print your own 3D model of SOFIA, the Stratospheric Observatory for Infrared Astronomy. SOFIA is a modified Boeing 747SP aircraft that carries a 106-inch telescope, making it the largest airborne observatory in the world.  
  
-Introduction 
+# Introduction 
  
 SOFIA flies higher than commercial jetliners to get above 99% of the water vapor in Earth’s atmosphere, which blocks infrared light from reaching the ground. This is why SOFIA is capable of making observations that are impossible for even the largest and highest ground-based telescopes. 
  
