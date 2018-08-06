@@ -36,7 +36,7 @@ Table of Contents
 *	[Credits]
  
 If you print and use this model, we would love to hear about your experiences. Please consider 
-sharing a photograph by opening a pull request, sharing it with SOFIA on social media @SOFIAtelescope, or contacting us at arc-sofia-contact@mail.nasa.gov. 
+sharing a photograph by opening a [pull request](pulls), sharing it with SOFIA on social media @SOFIAtelescope, or contacting us at arc-sofia-contact@mail.nasa.gov. 
 
  <img src="images/ClosedEndViewSide.jpg" align="middle" width="410"> <img src="images/OpenEndViewSide.jpg" align="right" width="410">
   
@@ -130,7 +130,7 @@ We achieved the best results using the following settings:
 *	Existing file orientation (printer varying) 
  
 Final parts may require sanding/gluing depending on material selection and printer tolerance 
-We encourage you to open a pull request to add additional tips! 
+We encourage you to open a [pull request](pulls) to add additional tips! 
 
 # Credits
 
