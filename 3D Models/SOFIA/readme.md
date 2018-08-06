@@ -93,4 +93,44 @@ Interior details (front to back):
 SOFIA’s pressure bulkhead separates the open telescope cavity from the pressurized cabin when the telescope door is open. You can simulate this opening by swapping out the closed door configuration (Telescope_cavity_closed.stl) of this model for the open door configuration (Telescope_cavity_open.stl). See files for the two telescope cavity configurations below. 
 
 
+## Interchangeable Instrument
+
+<img src="images/Instrument.jpg" align="middle"  width="400">
+
+Instruments to analyze light from SOFIA’s telescope are attached to the instrument-mounting flange on the cabin side of the pressure bulkhead. Because SOFIA lands after each flight, its scientific instruments can be exchanged, as well as repaired if necessary. New instruments can be developed to incorporate new technologies and extend SOFIA’s capabilities. This model comes with an interchangeable instrument to demonstrate this advantage. Print several of this instrument and swap them out depending on the scientific research your observatory model is conducting. 
+
+
+## Telescope Door Open Configuration (Including Telescope)
+
+<img src="images/TelescopeDoorOpen.jpg" align="middle"  width="400">
+
+SOFIA’s 2.7-meter (106-inch) diameter telescope was built in Germany by MAN Technologie AG and Kayser-Threde GmbH. The telescope collects radiation with wavelengths between 0.3 and 1600 microns and has an altitude range of approximately +20 to +60 degrees above the horizon. The telescope cannot point down. 
+ 
+The telescope is mounted on a spherical bearing, which enables the telescope to stay still while the aircraft moves around it. The telescope assembly also contains 15 pneumatic isolators made of a specialized rubber that work like shock absorbers on a car to isolate the telescope from the aircraft’s vibration. 
+
+
+## Telescope Door Closed Configuration
+
+<img src="images/TelescopeDoorClosed.jpg" align="middle"  width="400">
+
+On the ground, SOFIA’s telescope bay door is kept closed to protect the telescope mirror and cavity from dust, sunlight and water. 
+
+
+## Fuselage Top Section
+
+<img src="images/Fuselage.jpg" align="middle"  width="400">
+
+The removable upper fuselage of this model allows you to look inside and see some of the inner workings of the observatory to get a feel for the many people (scientists, telescope operators, science instrument operators, mission director, flight planners and more) whose work and expertise are essential to every flight. 
+
+# Printing Tips
+
+We achieved the best results using the following settings: 
+*	High print density 
+*	Soluble support structure 
+*	Existing file orientation (printer varying) 
+ 
+Final parts may require sanding/gluing depending on material selection and printer tolerance 
+We encourage you to open a pull request to add additional tips! 
+
+
 
