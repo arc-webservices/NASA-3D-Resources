@@ -22,24 +22,23 @@ With the help of the NASA Ames SpaceShop Rapid Prototyping Facility, the SOFIA m
 The model was has been simplified for durability and printing where needed. 
 
 <p float="right">
- <img src="images/OpenEndView.jpg" align="right" width="300">
- 
-<img src="images/ClosedEndView.jpg" align="right" width="300" >
+ <img src="images/OpenEndView.jpg" align="right" width="300"> 
+ <img src="images/ClosedEndView.jpg" align="right" width="300">
  </p>
 
 Table of Contents 
 * Preview
 * [Model files](#model-files)
-  * [Nose_section.stl](#nose-section)
-  * [Right_wing.stl]
-  * [Left_wing.stl]
-  * [Tail_section.stl]
-  * [Instrument.stl]
-  * [Telescope_cavity_open.stl]
-  * [Telescope_cavity_closed.stl]
-  * [Fuselage_top.stl]
-*	[Printing tips]
-*	[Credits]
+  * [Nose_section.stl](#nose-section-including-forward-aircraft-interior)
+  * [Right_wing.stl](#right-wing-including-aircraft-interior)
+  * [Left_wing.stl](#left-wing-including-aircraft-interior)
+  * [Tail_section.stl](#tail-section)
+  * [Instrument.stl](#interchangeable-instrument)
+  * [Telescope_cavity_open.stl](#telescope-door-open-configuration-including-telescope)
+  * [Telescope_cavity_closed.stl](#telescope-door-closed-configuration)
+  * [Fuselage_top.stl](#fuselage-top-section)
+*	[Printing tips](#printing-tips)
+*	[Credits](#credits)
 
  
 If you print and use this model, we would love to hear about your experiences. Please consider 
@@ -53,7 +52,7 @@ sharing a photograph by opening a [pull request](pulls), sharing it with SOFIA o
 
 ## Model files 
 
-### Nose Section
+### Nose Section (Including Forward Aircraft Interior)
   
 <img src="images/NoseSection.jpg" align="middle" width="350">
 
