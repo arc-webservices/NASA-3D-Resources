@@ -28,9 +28,9 @@ The model was has been simplified for durability and printing where needed.
  </p>
 
 Table of Contents 
-* [Preview] (#preview)
-* [Model files] (#model-files)
-  * [Nose_section.stl] (#nose-section)
+* Preview
+* [Model files](#model-files)
+  * [Nose_section.stl](#nose-section)
   * [Right_wing.stl]
   * [Left_wing.stl]
   * [Tail_section.stl]
