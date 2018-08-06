@@ -135,7 +135,7 @@ We encourage you to open a pull request to add additional tips!
 # Credits
 
 
-The 3D model files in this repository can also be found at (insert urls for NASA 3D resources repository here).  
+The 3D model files in this repository can also be found at [NASA 3D Resources](https://nasa3d-dev.arc.nasa.gov/smoorth1/detail/sofia).  
 
 Credits: 
 
