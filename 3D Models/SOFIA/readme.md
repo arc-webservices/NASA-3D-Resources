@@ -39,12 +39,17 @@ If you print and use this model, we would love to hear about your experiences. P
 sharing a photograph by opening a pull request, sharing it with SOFIA on social media @SOFIAtelescope, or contacting us at arc-sofia-contact@mail.nasa.gov. 
 
  <img src="images/ClosedEndViewSide.jpg" align="left" width="300"> <img src="images/OpenEndViewSide.jpg" align="right" width="300">
- 
-# Model files 
-## Nose Section (Including Forward Aircraft Interior) 
+  
+  
+     
+## Model files 
+
+### Nose Section (Including Forward Aircraft Interior) 
   
 <img src="images/NoseSection.jpg" align="left" width="300">
 The forward part of SOFIA’s main deck still resembles the first-class section from the aircraft’s commercial days. These seats are used during takeoff and landing when the seats around the consoles and conference tables in the rear part of the cabin are full. This section also contains the lavatories, the galley and the staircase leading to the upper deck. 
+
 Along one wall of the interior of the nose section are the mission controls and communications system (MCCS) racks. These are the computer systems that run the mission control stations and the headset system that the team uses to communicate. Headsets enable the team downstairs to easily communicate with each other and the flight crew upstairs. 
+
 The cockpit is on the upper deck of the aircraft and is not shown in this model. SOFIA’s cockpit crew includes a pilot, copilot, flight engineer and navigator. The flight crew works closely with the mission director downstairs to ensure the observatory is in the right place at the right time to conduct its observations. The upper deck also features more seating and the engineering station computer racks. 
 
