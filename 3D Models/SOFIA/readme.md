@@ -73,3 +73,24 @@ Interior details (front to back):
 *	Telescope Operators Station – These computers allow the telescope operators to control the telescope. They can move the telescope up and down, approximately 20-60 degrees above the horizon, to keep it pointed at the object the scientists are observing. The telescope cannot point down. 
 *	Observatory Electronics Rack – These computers include the telescope cavity environmental control systems, as well as other control systems. 
 
+
+## Left Wing (Including Aircraft Interior) 
+
+<img src="images/LeftWing.jpg" align="middle"  width="400">
+
+
+Interior details (front to back): 
+*	Airborne Astronomy Ambassadors (AAA) console – These displays provide a read-only view of the observations and telescope controls so teachers and other educators flying as part of the Airborne Astronomy Ambassadors can experience the research first-hand with the scientists. Educators bring their experience back to their classrooms and communities to inspire students to study and pursue careers in science, technology, engineering and math (STEM) fields. 
+*	Mission Director and Science Flight Planner Seats – The mission director and flight planner manage all aspects of the flight here, ensuring that the pilots, telescope operators and instrument scientists are all working in sync. The pilots keep the aircraft on the carefully planned flight path, the telescope operators keep the telescope pointed at the right object, and the instrument scientists monitor the data collected. 
+*	Science Instrument Team Station – The instrument scientists use these computers to monitor and manage the instrument throughout the flight. These tools (imagers, spectrometers and a polarimeter) analyze the light from SOFIA’s telescope. SOFIA’s instruments, each weighing hundreds of pounds, are interchangeable but can only be switched while the observatory is on the ground.  
+
+
+
+## Tail Section 
+
+<img src="images/Tail.jpg" align="middle"  width="400">
+
+SOFIA’s pressure bulkhead separates the open telescope cavity from the pressurized cabin when the telescope door is open. You can simulate this opening by swapping out the closed door configuration (Telescope_cavity_closed.stl) of this model for the open door configuration (Telescope_cavity_open.stl). See files for the two telescope cavity configurations below. 
+
+
+
