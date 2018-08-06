@@ -38,18 +38,34 @@ Table of Contents
 If you print and use this model, we would love to hear about your experiences. Please consider 
 sharing a photograph by opening a pull request, sharing it with SOFIA on social media @SOFIAtelescope, or contacting us at arc-sofia-contact@mail.nasa.gov. 
 
- <img src="images/ClosedEndViewSide.jpg" align="left" width="300"> <img src="images/OpenEndViewSide.jpg" align="right" width="300">
+ <img src="images/ClosedEndViewSide.jpg" align="left" width="410"> <img src="images/OpenEndViewSide.jpg" align="right" width="410">
   
-  
-     
+
+
 ## Model files 
 
 ### Nose Section (Including Forward Aircraft Interior) 
   
-<img src="images/NoseSection.jpg" align="left" width="300">
+<img src="images/NoseSection.jpg" align="middle" width="400">
+
 The forward part of SOFIA’s main deck still resembles the first-class section from the aircraft’s commercial days. These seats are used during takeoff and landing when the seats around the consoles and conference tables in the rear part of the cabin are full. This section also contains the lavatories, the galley and the staircase leading to the upper deck. 
 
 Along one wall of the interior of the nose section are the mission controls and communications system (MCCS) racks. These are the computer systems that run the mission control stations and the headset system that the team uses to communicate. Headsets enable the team downstairs to easily communicate with each other and the flight crew upstairs. 
 
 The cockpit is on the upper deck of the aircraft and is not shown in this model. SOFIA’s cockpit crew includes a pilot, copilot, flight engineer and navigator. The flight crew works closely with the mission director downstairs to ensure the observatory is in the right place at the right time to conduct its observations. The upper deck also features more seating and the engineering station computer racks. 
+
+
+## Right Wing (Including Aircraft Interior) 
+
+<img src="images/RightWing.jpg" align="middle"  width="400">
+
+
+SOFIA is powered by four Pratt & Whitney JT9D-7J turbofan engines, rated at 50,000 pounds of thrust each. Two are on the right wing, and two are on the left. 
+
+Interior details (front to back): 
+
+*	Science Conference Table – Scientists from all over the world apply for time to use the telescope. When they fly to conduct their observations, they sit at these conference tables. 
+*	Telescope Team Seats - German SOFIA Institute (DSI) engineers occupy these seats to test and monitor the telescope’s performance. 
+*	Telescope Operators Station – These computers allow the telescope operators to control the telescope. They can move the telescope up and down, approximately 20-60 degrees above the horizon, to keep it pointed at the object the scientists are observing. The telescope cannot point down. 
+*	Observatory Electronics Rack – These computers include the telescope cavity environmental control systems, as well as other control systems. 
 
