@@ -38,7 +38,7 @@ Table of Contents
 If you print and use this model, we would love to hear about your experiences. Please consider 
 sharing a photograph by opening a pull request, sharing it with SOFIA on social media @SOFIAtelescope, or contacting us at arc-sofia-contact@mail.nasa.gov. 
 
- <img src="images/ClosedEndViewSide.jpg" align="left" width="410"> <img src="images/OpenEndViewSide.jpg" align="right" width="410">
+ <img src="images/ClosedEndViewSide.jpg" align="middle" width="410"> <img src="images/OpenEndViewSide.jpg" align="right" width="410">
   
 
  
