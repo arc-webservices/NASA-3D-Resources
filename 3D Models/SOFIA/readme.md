@@ -132,5 +132,27 @@ We achieved the best results using the following settings:
 Final parts may require sanding/gluing depending on material selection and printer tolerance 
 We encourage you to open a pull request to add additional tips! 
 
+# Credits
 
 
+The 3D model files in this repository can also be found at (insert urls for NASA 3D resources repository here).  
+
+Credits: 
+
+The 3D-printable model of SOFIA was created by the SOFIA Mission Communications and Public Outreach Group with help from the NASA Ames SpaceShop Rapid Prototyping Facility. 
+
+SOFIA Team 
+•	Coral Clark - Airborne Astronomy Ambassadors co-manager 
+•	Kassandra Bell - SOFIA social media lead 
+•	Leah Strichartz - SOFIA public engagement specialist 
+ 
+Photography 
+•	Jake Killelea 
+ 
+NASA Ames SpaceShop Rapid Prototyping Facility 
+•	Randall Ticknor - intern 
+•	Alex Mazhari - manager 
+ 
+The following software was used to create the printable files: 
+•	Blender 2.78b 
+The contents of this repository are free to download and use. Please see the Usage Guidelines. 
