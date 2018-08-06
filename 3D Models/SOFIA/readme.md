@@ -16,18 +16,18 @@ You can find more information about SOFIA at https://www.nasa.gov/sofia and at h
  
 For more details about the parts of the SOFIA aircraft and telescope, see the self-guided tour of SOFIA at https://www.sofia.usra.edu/sites/default/files/self-guided_tour.pdf, as well as the information below. For a virtual reality tour of SOFIA, check out the “NASA and DLR’s Flying Telescope SOFIA” Google Expedition at https://edu.google.com/expeditions/. 
 
-# Preview 
+# The model 
  
 With the help of the NASA Ames SpaceShop Rapid Prototyping Facility, the SOFIA mission has created an eight-piece, 3D-printable model of the SOFIA 747SP aircraft. The printable files are at a 1/200 scale, with interior details and a removable upper fuselage section. This model features interchangeable open- and closed-telescope cavity configurations and telescope instruments. 
 The model was has been simplified for durability and printing where needed. 
 
-<p float="right">
+<p float="left">
  <img src="images/OpenEndView.jpg" align="right" width="300"> 
  <img src="images/ClosedEndView.jpg" align="right" width="300">
  </p>
 
 Table of Contents 
-* Preview
+* [Preview](#the-model)
 * [Model files](#model-files)
   * [Nose_section.stl](#nose-section-including-forward-aircraft-interior)
   * [Right_wing.stl](#right-wing-including-aircraft-interior)
