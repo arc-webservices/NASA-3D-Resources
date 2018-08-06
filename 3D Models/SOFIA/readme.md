@@ -21,10 +21,16 @@ For more details about the parts of the SOFIA aircraft and telescope, see the se
 With the help of the NASA Ames SpaceShop Rapid Prototyping Facility, the SOFIA mission has created an eight-piece, 3D-printable model of the SOFIA 747SP aircraft. The printable files are at a 1/200 scale, with interior details and a removable upper fuselage section. This model features interchangeable open- and closed-telescope cavity configurations and telescope instruments. 
 The model was has been simplified for durability and printing where needed. 
 
+<p float="right">
+ <img src="images/OpenEndView.jpg" align="right" width="300">
+ 
+<img src="images/ClosedEndView.jpg" align="right" width="300" >
+ </p>
+
 Table of Contents 
-* [Preview] 
-* [Model files]
-  * [Nose_section.stl]
+* [Preview] (#preview)
+* [Model files] (#model-files)
+  * [Nose_section.stl] (nose-section)
   * [Right_wing.stl]
   * [Left_wing.stl]
   * [Tail_section.stl]
@@ -34,14 +40,13 @@ Table of Contents
   * [Fuselage_top.stl]
 *	[Printing tips]
 *	[Credits]
+
  
 If you print and use this model, we would love to hear about your experiences. Please consider 
 sharing a photograph by opening a [pull request](pulls), sharing it with SOFIA on social media @SOFIAtelescope, or contacting us at arc-sofia-contact@mail.nasa.gov. 
 
  <img src="images/ClosedEndViewSide.jpg" align="middle" width="410"> <img src="images/OpenEndViewSide.jpg" align="right" width="410">
   
-
- 
  
 
 
