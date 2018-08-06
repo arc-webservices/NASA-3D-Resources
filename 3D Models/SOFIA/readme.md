@@ -50,7 +50,7 @@ sharing a photograph by opening a pull request, sharing it with SOFIA on social 
 
 ### Nose Section (Including Forward Aircraft Interior) 
   
-<img src="images/NoseSection.jpg" align="middle" width="400">
+<img src="images/NoseSection.jpg" align="middle" width="350">
 
 The forward part of SOFIA’s main deck still resembles the first-class section from the aircraft’s commercial days. These seats are used during takeoff and landing when the seats around the consoles and conference tables in the rear part of the cabin are full. This section also contains the lavatories, the galley and the staircase leading to the upper deck. 
 
@@ -61,7 +61,7 @@ The cockpit is on the upper deck of the aircraft and is not shown in this model.
 
 ## Right Wing (Including Aircraft Interior) 
 
-<img src="images/RightWing.jpg" align="middle"  width="400">
+<img src="images/RightWing.jpg" align="middle"  width="350">
 
 
 SOFIA is powered by four Pratt & Whitney JT9D-7J turbofan engines, rated at 50,000 pounds of thrust each. Two are on the right wing, and two are on the left. 
@@ -76,7 +76,7 @@ Interior details (front to back):
 
 ## Left Wing (Including Aircraft Interior) 
 
-<img src="images/LeftWing.jpg" align="middle"  width="400">
+<img src="images/LeftWing.jpg" align="middle"  width="350">
 
 
 Interior details (front to back): 
@@ -88,21 +88,21 @@ Interior details (front to back):
 
 ## Tail Section 
 
-<img src="images/Tail.jpg" align="middle"  width="400">
+<img src="images/Tail.jpg" align="middle"  width="350">
 
 SOFIA’s pressure bulkhead separates the open telescope cavity from the pressurized cabin when the telescope door is open. You can simulate this opening by swapping out the closed door configuration (Telescope_cavity_closed.stl) of this model for the open door configuration (Telescope_cavity_open.stl). See files for the two telescope cavity configurations below. 
 
 
 ## Interchangeable Instrument
 
-<img src="images/Instrument.jpg" align="middle"  width="400">
+<img src="images/Instrument.jpg" align="middle"  width="350">
 
 Instruments to analyze light from SOFIA’s telescope are attached to the instrument-mounting flange on the cabin side of the pressure bulkhead. Because SOFIA lands after each flight, its scientific instruments can be exchanged, as well as repaired if necessary. New instruments can be developed to incorporate new technologies and extend SOFIA’s capabilities. This model comes with an interchangeable instrument to demonstrate this advantage. Print several of this instrument and swap them out depending on the scientific research your observatory model is conducting. 
 
 
 ## Telescope Door Open Configuration (Including Telescope)
 
-<img src="images/TelescopeDoorOpen.jpg" align="middle"  width="400">
+<img src="images/TelescopeDoorOpen.jpg" align="middle"  width="350">
 
 SOFIA’s 2.7-meter (106-inch) diameter telescope was built in Germany by MAN Technologie AG and Kayser-Threde GmbH. The telescope collects radiation with wavelengths between 0.3 and 1600 microns and has an altitude range of approximately +20 to +60 degrees above the horizon. The telescope cannot point down. 
  
@@ -111,14 +111,14 @@ The telescope is mounted on a spherical bearing, which enables the telescope to 
 
 ## Telescope Door Closed Configuration
 
-<img src="images/TelescopeDoorClosed.jpg" align="middle"  width="400">
+<img src="images/TelescopeDoorClosed.jpg" align="middle"  width="350">
 
 On the ground, SOFIA’s telescope bay door is kept closed to protect the telescope mirror and cavity from dust, sunlight and water. 
 
 
 ## Fuselage Top Section
 
-<img src="images/Fuselage.jpg" align="middle"  width="400">
+<img src="images/Fuselage.jpg" align="middle"  width="350">
 
 The removable upper fuselage of this model allows you to look inside and see some of the inner workings of the observatory to get a feel for the many people (scientists, telescope operators, science instrument operators, mission director, flight planners and more) whose work and expertise are essential to every flight. 
 
@@ -142,17 +142,21 @@ Credits:
 The 3D-printable model of SOFIA was created by the SOFIA Mission Communications and Public Outreach Group with help from the NASA Ames SpaceShop Rapid Prototyping Facility. 
 
 SOFIA Team 
-•	Coral Clark - Airborne Astronomy Ambassadors co-manager 
-•	Kassandra Bell - SOFIA social media lead 
-•	Leah Strichartz - SOFIA public engagement specialist 
+
+*	Coral Clark - Airborne Astronomy Ambassadors co-manager 
+*	Kassandra Bell - SOFIA social media lead 
+*	Leah Strichartz - SOFIA public engagement specialist 
  
 Photography 
-•	Jake Killelea 
+
+-	Jake Killelea 
  
 NASA Ames SpaceShop Rapid Prototyping Facility 
-•	Randall Ticknor - intern 
-•	Alex Mazhari - manager 
+
+-	Randall Ticknor - intern 
+-	Alex Mazhari - manager 
  
 The following software was used to create the printable files: 
-•	Blender 2.78b 
+
+*	Blender 2.78b 
 The contents of this repository are free to download and use. Please see the Usage Guidelines. 
