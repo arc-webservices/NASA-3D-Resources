@@ -163,4 +163,4 @@ NASA Ames SpaceShop Rapid Prototyping Facility
 The following software was used to create the printable files: 
 
 *	Blender 2.78b 
-The contents of this repository are free to download and use. Please see the Usage Guidelines. 
+The contents of this repository are free to download and use. Please see the [Usage Guidelines](https://www.nasa.gov/multimedia/guidelines/index.html). 
