@@ -53,8 +53,8 @@ sharing a photograph by opening a [pull request](pulls), sharing it with SOFIA o
 ## Model files 
 
 ### Nose Section (Including Forward Aircraft Interior)
-  
-<img src="images/NoseSection.jpg" align="middle" width="350">
+
+[![Nose Section](images/NoseSection.jpg)](Nose_section.stl)
 
 The forward part of SOFIA’s main deck still resembles the first-class section from the aircraft’s commercial days. These seats are used during takeoff and landing when the seats around the consoles and conference tables in the rear part of the cabin are full. This section also contains the lavatories, the galley and the staircase leading to the upper deck. 
 
